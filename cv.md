@@ -41,3 +41,26 @@ function launchAll(launchMissile) {
 }
 
 ```
+
+### Education
+2011-2017 - Belarusian State Medical University, General Medicine, M/D., General Practitioner
+2022-2024 - Institute of IT and Business Administration, Programmer
+
+### Qualification
++ 2022 Trainig center Epam - Software Testing Basics
++ 2022 QA Academy - Software Tester
++ 2021-2022 Rolling Scopes School, Javascript/Front-end, Stage 0 (Pre-school)
++ 2023 - current The Rolling Scopes School, Javascript/Front-end, Stage 1 **in progress**
+
+### Language
++ English - C1
++ Italian - B2
++ Russian - Native
++ Belarusian - Native
+
+### Personal Qualities
++ Accurate
++ Patient
++ Self-education
++ Optimistic
++ Empathic
