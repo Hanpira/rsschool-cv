@@ -26,3 +26,18 @@ I pay attention to details and I care about the quality of product. My bug-repor
 + SQL, MySQL
 + DevTools
 
+### Projects
++ [CV](https://hanpira.github.io/rsschool-cv/)
++ [Portfolio]()
+
+### Code Example
+```
+function launchAll(launchMissile) {
+  for(let i = 0; i < 5; i++) {
+    setTimeout(function() {
+      launchMissile(i);
+    }, i * 1000);
+  }
+}
+
+```
